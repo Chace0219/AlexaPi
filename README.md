@@ -1,5 +1,4 @@
-# AlexaPi
-AlexaPi including wav
+# AlexaPi including call ASK using Wav file without voice after hotward
 
 This is a client for Amazon's Alexa service. It is intended and tested to run on a wide range of platforms, such as Raspberry Pi, Orange Pi, CHIP and ordinary Linux or Windows desktops.
 
@@ -7,7 +6,7 @@ Do you want to help out? Read the Contribution Guide.
 
 Check out the Documentation Wiki and Change Log.
 
-Requirements
+# Requirements
 
 You will need:
 

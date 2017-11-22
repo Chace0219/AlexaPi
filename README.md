@@ -10,16 +10,15 @@ Check out the Documentation Wiki and Change Log.
 
 You will need:
 
-A Linux or Windows box
-a Raspberry Pi and an SD Card with a fresh install of Raspbian
-or an Orange Pi with Armbian
-or pretty much any up-to-date Linux/Windows system
-Audio peripherals
-external speaker with 3.5mm Jack
-USB Sound Dongle and microphone
-Optional (only for Raspberry Pi)
-a push button connected between GPIO 18 and GND (configurable)
-a dual colour LED (or 2 single LEDs) connected between GPIO 24 & 25 and GND (configurable)
+- A Linux or Windows box
+- a Raspberry Pi and an SD Card with a fresh install of Raspbian
+- or an Orange Pi with Armbian
+- or pretty much any up-to-date Linux/Windows system
+- Audio peripherals
+- external speaker with 3.5mm Jack
+- USB Sound Dongle and microphone
+- Optional (only for Raspberry Pi)
+- APA RGB LED for flashing animation(optional)
 You wanna give it a try? Check out the Installation Guide.
 
 Issues / Bugs / Documentation / etc.
